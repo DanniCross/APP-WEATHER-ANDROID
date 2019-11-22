@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="iso">Código ISO del país:</string>
+    <string name="Search">Buscar</string>
+    <string name="Current">Actual:</string>
+    <string name="Min">Mínimo:</string>
+    <string name="Max">Máximo:</string>
+    <string name="City">Ciudad:</string>
+    <string name="imgDesc">Ícono del clima</string>
+    <string name="WR">xxxxxxxx</string>
+    <string name="Temperature">Temperatura</string>
+    <string name="Description">Descripción:</string>
+    <string name="Pressure">Presión:</string>
+    <string name="Humidity">Humedad:</string>
+</resources>
